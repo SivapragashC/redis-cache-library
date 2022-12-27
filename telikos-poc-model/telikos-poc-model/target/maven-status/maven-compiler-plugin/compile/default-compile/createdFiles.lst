@@ -1,0 +1,4 @@
+com\maersk\telikos\model\CacheException.class
+com\maersk\telikos\model\CacheImpl.class
+com\maersk\telikos\model\RedisConfig.class
+com\maersk\telikos\model\ICache.class
